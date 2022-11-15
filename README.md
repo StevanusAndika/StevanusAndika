@@ -13,7 +13,8 @@
    - Edit videos with Adobe Premiere.
    - make photo editing with Photoshop.
    - create animated films/ads with Adobe Flash.
-   -created publication design.
+   - create publication design
+   
  #### 2. [SMPN 230 Jakarta](https://www.smpn230jkt.sch.id/)| Jakarta `2017-2020`
    
 
