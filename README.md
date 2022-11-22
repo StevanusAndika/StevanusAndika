@@ -14,7 +14,7 @@
    - Make photo editing with Photoshop.
    - Create publication design.
    - Create animated films/ads with Adobe     Flash.
- #### 2. [SMPN  230 Jakarta](https://www.smpn230jkt.sch.id/) | Jakarta | `2013-2016`
+ #### 2. [SMPN  230 Jakarta](https://www.smpn230jkt.sch.id/) | Jakarta | `2017-2020`
    
 
 ## Work Experience:
