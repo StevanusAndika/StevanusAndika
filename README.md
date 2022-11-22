@@ -31,7 +31,7 @@
 [<img align="left" alt="CSS" width="30px" src="CSS.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Pycharm" width="30px" src="php.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="JS" width="30px" src="js.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Java" width="30px" src="java.png" style="padding-right:0px;" />][webdev]
+[<img align="left" alt="Java" width="30px" src="Java.png" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Myql" width="50px" src="mysql.png" style="padding-right:10px;" />][webdev]
 
 <br />
