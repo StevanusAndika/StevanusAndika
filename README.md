@@ -9,7 +9,7 @@
 
 ## Education:
 
-#### 1. [SMK Bina Nusa Mandiri](https://smkbinanusamandiri.sch.id/)|Jakarta|`2020-2023`
+#### 1. [SMK Bina Nusa Mandiri](https://smkbinanusamandiri.sch.id/)|Jakarta|'2020-2023`
    - Edit videos with Adobe Premiere.
    - Make photo editing with Photoshop.
    - Create publication design.
