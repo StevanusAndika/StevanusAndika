@@ -27,23 +27,23 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML" width="30px" src="img/skill/html.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="CSS" width="30px" src="img/skill/CSS.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Pycharm" width="30px" src="img/skill/php.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="JS" width="30px" src="img/skill/js.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Java" width="30px" src="img/skill/java.png" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Myql" width="50px" src="img/skill/mysql.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="HTML" width="30px" src="html.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="CSS" width="30px" src="CSS.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Pycharm" width="30px" src="php.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="JS" width="30px" src="js.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Java" width="30px" src="java.png" style="padding-right:0px;" />][webdev]
+[<img align="left" alt="Myql" width="50px" src="mysql.png" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
 
 ---
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/#gh-dark-mode-only)
+[![website](linkedin-light.svg)](https://www.linkedin.com/in/#gh-light-mode-only)
+[![website](linkedin-dark.svg)](https://www.linkedin.com/in/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/stevanus0602#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/stevanus0602#gh-dark-mode-only)
+[![website](instagram-light.svg)](https://instagram.com/stevanus0602#gh-light-mode-only)
+[![website](instagram-dark.svg)](https://instagram.com/stevanus0602#gh-dark-mode-only)
 
 
 
