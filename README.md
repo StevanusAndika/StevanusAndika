@@ -13,16 +13,31 @@
    - Edit videos with Adobe Premiere.
    - Make photo editing with Photoshop.
    - Create publication design.
-   - Create animated films/ads with Adobe     Flash.
- #### 2. [SMPN  230 Jakarta](https://www.smpn230jkt.sch.id/) | Jakarta | `2017-2020`
-   
-
+   - Create animated films/ads with Adobe Flash.
+ #### 2. [Universitas Ipwija | Informatics Engineering ](https://ipwija.ac.id/) | bogor| `2023-2027`
+   - Create software, both web-based, application and desktop.
+   - Managing software development.
+   - Test, debug and deploy the software that has been created
+   - Create animated films/ads with Adobe Flash.
+   - Applying one of the SDLC (Software Development Life Cycle) principles.
+   - System analysis and user needs in software development.
+   - Implement structural and object-oriented programming.
+   - Create, manage databases both SQL and non SQL based.
+   - Maintaining security in the software being developed.
 ## Work Experience:
 #### 1. [Surya Komputer](https://maps.app.goo.gl/zyroHXGj7NhD4AYAA)| Student Intern | Jakarta |`01 November 2021- 24 February 2022`
    - Assemble and clean pc components.
    - Create a network cable.
    - Windows installation and applications.
    - Backup data
+
+   #### 2. [PT.Elwilis Mitra Sejahtera](https://www.elwilis.com/)| Staff IT Support | Jakarta |`06 Agustus 2023- 31 Agustus  2023`
+   - Performing backups and repairs for the company's internal computers.
+   - Responsible for IT equipment assets within the company.
+   - Providing support to customers for applications sold by the company.
+   - Conducting presentations and providing tutorials on how to use the applications sold by the company.
+   - Creating reports/proposals required by the company and being able to present them accurately and in accordance with the expected procedures/structure.
+
 ---
 
 ### Languages and Tools:
