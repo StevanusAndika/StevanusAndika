@@ -31,7 +31,7 @@
    - Windows installation and applications.
    - Backup data
 
-   #### 2. [PT.Elwilis Mitra Sejahtera](https://www.elwilis.com/)| Staff IT Support | Jakarta |`06 Agustus 2023- 31 Agustus  2023`
+   #### 2. [PT.Elwilis Mitra Sejahtera](https://www.elwilis.com/)| Staff IT Support | Jakarta |`06 June 2023- 31 Agustus  2023`
    - Performing backups and repairs for the company's internal computers.
    - Responsible for IT equipment assets within the company.
    - Providing support to customers for applications sold by the company.
