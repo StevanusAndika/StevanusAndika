@@ -54,8 +54,8 @@
 
 ---
 ### Connect with me:
-[![website](linkedin-light.svg)](https://www.linkedin.com/in/#gh-light-mode-only)
-[![website](linkedin-dark.svg)](https://www.linkedin.com/in/#gh-dark-mode-only)
+[![website](linkedin-light.svg)](https://www.linkedin.com/in/stevanus-andika-galih-setiawan-9127b8257)
+[![website](linkedin-dark.svg)](https://www.linkedin.com/in/stevanus-andika-galih-setiawan-9127b8257)
 &nbsp;&nbsp;
 [![website](instagram-light.svg)](https://instagram.com/stevanus0602#gh-light-mode-only)
 [![website](instagram-dark.svg)](https://instagram.com/stevanus0602#gh-dark-mode-only)
