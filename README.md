@@ -14,7 +14,7 @@
    - Make photo editing with Photoshop.
    - Create publication design.
    - Create animated films/ads with Adobe Flash.
- #### 2. [Universitas Ipwija | Informatics Engineering ](https://ipwija.ac.id/) | bogor| `2023-2027`
+ #### 2. [Universitas Ipwija | Software Engineering ](https://ipwija.ac.id/) | bogor| `2023-2027`
    - Create software, both web-based, application and desktop.
    - Managing software development.
    - Test, debug and deploy the software that has been created
