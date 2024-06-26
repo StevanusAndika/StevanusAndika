@@ -1,9 +1,9 @@
 # Hi there, I'm Stevanus Andika Galih Setiawan - aka [Steven](https://stevanusandika.github.io/Portfolio-Stevanus/) 👋
 ## About me:
 - 🔭 I'm fresh graduated
-- 🌱 I’m currently learning Javascript and       Php
-- 👯 I’m looking to collaborate as Web developer
-- 🤔 I’m looking for create reponsive web design
+- 🌱 I’m currently learning Javascript and php
+- 👯 I’m looking to collaborate as web developer
+- 🤔I’m looking for create reponsive web design and game development
 - 💬 Ask me about anything
 - 📫 How to reach me: stevcomp58@gmail.com
 
