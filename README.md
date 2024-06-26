@@ -38,7 +38,7 @@
    - Conducting presentations and providing tutorials on how to use the applications sold by the company.
    - Creating reports/proposals required by the company and being able to present them accurately and in accordance with the expected procedures/structure.
      
-     #### 3. [https://github.com/StevanusAndikaGS)| Freelance Programmer | Jakarta |`01 Oktober 2023- now`
+   #### 2. [Freelance Programmer](https://github.com/StevanusAndikaGS)| Programmer & Software Tester | Jakarta |`01 October 2023- now` 
    - assist students in completing coding assignments 
    - create programs both in terms of appearance and logic
    - ensure that the program can run properly, without any errors/bug
