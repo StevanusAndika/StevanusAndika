@@ -49,7 +49,7 @@
    - Conducted application usage tutorials.  
    - Created reports and proposals aligned with company procedures.  
 
-3.  **[Stevcomp](https://stev-comp.vercel.app/)**  | Freelance Programmer & Software Tester | Jakarta | Oct 2023 - Present  
+3.  **[Stevcomp](https://stev-comp.vercel.app/)**  | Freelance Programmer & Software Tester | Jakarta | Oct 2023 - September 2025 
    - Assisted students with coding assignments.  
    - Developed programs focusing on design and logic.  
    - Ensured error-free program execution.  
