@@ -50,9 +50,9 @@
    - Created reports and proposals aligned with company procedures.  
 
 3.  **[Stevcomp](https://stev-comp.vercel.app/)**  | Freelance Programmer & Software Tester | Jakarta | Oct 2023 - September 2025 
-   - Assisted students with coding assignments.  
-   - Developed programs focusing on design and logic.  
-   - Ensured error-free program execution.  
+      - Assisted students with coding assignments.  
+      - Developed programs focusing on design and logic.  
+      - Ensured error-free program execution.  
 
 4. **[Universitas IPWIJA](https://ipwija.ac.id/)** | Computer Lab Assistant(Workshop Information Technology) | Bogor | October 2024 - December 2024   
    - Developed a WordPress-based website.  
