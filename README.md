@@ -2,9 +2,9 @@
 
 ## 💫 About Me:
 - 🔭 I'm a fresh graduate  
-- 🌱 I’m currently learning JavaScript and PHP  
-- 👯 I’m looking to collaborate as a web developer  
-- 🤔 I’m looking to create responsive web designs and explore game development  
+- 🌱 I'm currently learning JavaScript and PHP  
+- 👯 I'm looking to collaborate as a web developer  
+- 🤔 I'm looking to create responsive web designs and explore game development  
 - 💬 Ask me about anything  
 - 📫 How to reach me: **stevcomp58@gmail.com**
 
@@ -23,7 +23,7 @@
    - Created publication designs.  
    - Developed animated films/ads using Adobe Flash.  
 
-2.  **[Universitas IPWIJA](https://ipwija.ac.id/)**| Software Engineering | Bogor |2023-2027 
+2. **[Universitas IPWIJA](https://ipwija.ac.id/)** | Software Engineering | Bogor | 2023 - 2027  
    - Created software for web, applications, and desktop platforms.  
    - Managed software development processes.  
    - Tested, debugged, and deployed software.  
@@ -49,17 +49,28 @@
    - Conducted application usage tutorials.  
    - Created reports and proposals aligned with company procedures.  
 
-3.  **[Stevcomp](https://stev-comp.vercel.app/)**  | Freelance Programmer & Software Tester | Jakarta | Oct 2023 - September 2025 
-      - Assisted students with coding assignments.  
-      - Developed programs focusing on design and logic.  
-      - Ensured error-free program execution.  
+3. **[Stevcomp](https://stev-comp.vercel.app/)** | Freelance Programmer & Software Tester | Jakarta | Oct 2023 - Sept 2025  
+   - Assisted students with coding assignments.  
+   - Developed programs focusing on design and logic.  
+   - Ensured error-free program execution.  
 
-4. **[Universitas IPWIJA](https://ipwija.ac.id/)** | Computer Lab Assistant(Workshop Information Technology) | Bogor | October 2024 - December 2024   
+4. **[Universitas IPWIJA](https://ipwija.ac.id/)** | Computer Lab Assistant (Workshop Information Technology) | Bogor | Oct 2024 - Dec 2024  
    - Developed a WordPress-based website.  
    - Supported IT staff in network management.  
    - Processed data for campus divisions into a website.  
    - Installed required software in computer laboratories.  
    - Ensured the security of computer lab assets.  
+
+5. **[PT Sectoor Indonesia](http://sectoorindonesia.co.id/sti)** | Fullstack Programmer Intern | Jakarta | Jan 2026 - May 2026  
+   - Design and develop information systems for all company divisions, including finance, HR, and others (ERP systems), used internally by the company.  
+   - Create user interfaces and design responsive user experiences so that the system can be used across various devices and is easy for everyone to use.  
+   - Implement backend validation and verification to ensure there are no server-side errors.  
+   - Implement data security in the system by implementing login, session, cookie, Google reCAPTCHA integration, Cloudflare, and more.  
+   - Conduct testing, including unit testing, integration testing, and manual testing (overall, for all features) to ensure all features are error-free.  
+   - Report project results in the form of project presentations to the project manager/person in charge.  
+   - Deploy to hosting using either git actions or manually (git pull or git merge), and correct any server errors.  
+   - Provide training on how to use the information system to all employees in the company.  
+   - Hold internal meetings to discuss the development of advanced features.  
 
 ---
 
@@ -104,6 +115,3 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://saweria.co/stevcomp)  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
---- 
-
