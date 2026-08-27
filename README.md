@@ -9,7 +9,7 @@
 - 💬 Ask me about web development, IT support, or anything tech-related
 - 📫 How to reach me: **stevcomp58@gmail.com**
 - 🎯 Final-year Software Engineering student with experience as Fullstack Developer and IT Support. Skilled in web application development, software testing, and system management. Possesses strong problem-solving abilities, team collaboration, and rapid adaptation to new technologies.
-- I'm also passionate about Japanese culture, including idol groups, manga, anime, Tamiya, Gundam, and everything otaku-related!
+- 🇯🇵 I'm also passionate about Japanese culture, including idol groups, manga, anime, Tamiya, Gundam, and everything otaku-related!
 
 ---
 
@@ -141,6 +141,8 @@
 ![ESP32](https://img.shields.io/badge/ESP32-%23000000.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-%23000000.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-%23000000.svg?style=for-the-badge&logo=uptime-kuma&logoColor=white)
+![Balsamiq](https://img.shields.io/badge/Balsamiq-%23000000.svg?style=for-the-badge&logo=balsamiq&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
