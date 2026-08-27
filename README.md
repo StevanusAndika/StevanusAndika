@@ -9,7 +9,7 @@
 - 💬 Ask me about web development, IT support, or anything tech-related
 - 📫 How to reach me: **stevcomp58@gmail.com**
 - 🎯 Final-year Software Engineering student with experience as Fullstack Developer and IT Support. Skilled in web application development, software testing, and system management. Possesses strong problem-solving abilities, team collaboration, and rapid adaptation to new technologies.
-- 🇯🇵 I'm also passionate about Japanese culture, including idol groups, manga, anime, Tamiya, Gundam, and everything otaku-related!
+- I'm also passionate about Japanese culture, including idol groups, manga, anime, Tamiya, Gundam, and everything otaku-related!
 
 ---
 
