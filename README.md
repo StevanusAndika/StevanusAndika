@@ -7,33 +7,14 @@
 - 🤔 I'm passionate about creating responsive web designs and exploring game development
 - 💬 Ask me about web development, IT support, or anything tech-related
 - 📫 How to reach me: **stevcomp58@gmail.com**
-
----
-
-## 🎓 Education
-
-### [IPWIJA University](https://ipwija.ac.id/) | Bogor | 2023 - 2027
-**Bachelor of Software Engineering (S1) – GPA: 3.79**
-- Developed software for web, applications, and desktop platforms
-- Managed software development processes using SDLC principles
-- Performed testing, debugging, and software deployment
-- Conducted system analysis and user needs assessments
-- Implemented structural and object-oriented programming
-- Created and managed databases (SQL and NoSQL)
-- Maintained software security during development
-
-### [SMK Bina Nusa Mandiri](https://smkbinanusamandiri.sch.id/) | Jakarta | 2020 - 2023
-**Vocational High School – Multimedia**
-- Edited videos using Adobe Premiere
-- Performed photo editing with Photoshop
-- Created publication designs
-- Developed animated films/ads using Adobe Flash
+- 🎯 Final-year Software Engineering student with experience as Fullstack Developer and IT Support. Skilled in web application development, software testing, and system management. Possesses strong problem-solving abilities, team collaboration, and rapid adaptation to new technologies.
+- 🇯🇵 I'm also passionate about Japanese culture, including idol groups, manga, anime, Tamiya, Gundam, and everything otaku-related!
 
 ---
 
 ## 💼 Work Experience
 
-### Fullstack Programmer Intern – [PT Sectoro Indonesia](http://sectoorindonesia.co.id/sti) | Jakarta | Jan 2026 - May 2026
+### Fullstack Programmer Intern – [PT Sectoor Indonesia](http://sectoorindonesia.co.id/sti) | Jakarta | Jan 2026 - May 2026
 - Designed and developed internal ERP system with responsive user interface
 - Implemented data security (Login, reCAPTCHA, Cloudflare, Rate Limiter)
 - Performed unit, integration, and manual testing
@@ -61,6 +42,35 @@
 
 ---
 
+## 🎓 Education
+
+### [IPWIJA University](https://ipwija.ac.id/) | Bogor | 2023 - 2027
+**Bachelor of Software Engineering (S1) – GPA: 3.79**
+- Developed software for web, applications, and desktop platforms
+- Managed software development processes using SDLC principles
+- Performed testing, debugging, and software deployment
+- Conducted system analysis and user needs assessments
+- Implemented structural and object-oriented programming
+- Created and managed databases (SQL and NoSQL)
+- Maintained software security during development
+
+### [SMK Bina Nusa Mandiri](https://smkbinanusamandiri.sch.id/) | Jakarta | 2020 - 2023
+**Vocational High School – Multimedia**
+- Edited videos using Adobe Premiere
+- Performed photo editing with Photoshop
+- Created publication designs
+- Developed animated films/ads using Adobe Flash
+
+---
+
+## 🏆 Awards
+
+### Jakarta Scholarship Foundation | 2024 - 2025
+- Selected based on university recommendation with minimum GPA of 3.0
+- Recognized for academic excellence and consistent performance
+
+---
+
 ## 🤝 Volunteer Experience
 
 ### Programmer & Project Coordinator – [Pondok Pesantren Al-Quran Bani Syahid](https://www.instagram.com/ponpes.b.syahid/) | Bogor | Sep 2025 - Jan 2026
@@ -75,41 +85,60 @@
 
 ---
 
-## 🏆 Awards
+## 🌐 Languages
 
-### Jakarta Scholarship Foundation | 2024 - 2025
-- Selected based on university recommendation with minimum GPA of 3.0
-- Recognized for academic excellence and consistent performance
+- **Indonesian** (Native)
+- **English** (Basic - Intermediate)
+- **Japanese** (Basic)
 
 ---
 
 ## 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-%23000000.svg?style=for-the-badge&logo=server&logoColor=white)
+![Shared Hosting](https://img.shields.io/badge/Shared_Hosting-%234285F4.svg?style=for-the-badge&logo=hostinger&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![MikroTik](https://img.shields.io/badge/MikroTik-%23293292.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-%23000000.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-%23000000.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-%23000000.svg?style=for-the-badge&logo=uptime-kuma&logoColor=white)
 
 ---
 
@@ -126,19 +155,14 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=StevanusAndika&theme=default&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=StevanusAndika&theme=default&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StevanusAndika&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StevanusAndika&show_icons=true&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StevanusAndika&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StevanusAndika&layout=compact&theme=default)
 
 ---
 
 ## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=StevanusAndika&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
@@ -148,6 +172,3 @@
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-
