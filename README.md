@@ -3,12 +3,13 @@
 ## 💫 About Me:
 - 🔭 I'm a fresh graduate from Software Engineering
 - 🌱 I'm currently deepening my skills in JavaScript and PHP
+- 📊 I'm also currently interested in learning Data Science, Data Analysis, and Cloud Computing
 - 👯 I'm looking to collaborate as a Fullstack Web Developer
 - 🤔 I'm passionate about creating responsive web designs and exploring game development
 - 💬 Ask me about web development, IT support, or anything tech-related
 - 📫 How to reach me: **stevcomp58@gmail.com**
 - 🎯 Final-year Software Engineering student with experience as Fullstack Developer and IT Support. Skilled in web application development, software testing, and system management. Possesses strong problem-solving abilities, team collaboration, and rapid adaptation to new technologies.
-- I'm also passionate about Japanese culture, including idol groups, manga, anime, Tamiya, Gundam, and everything otaku-related!
+- 🇯🇵 I'm also passionate about Japanese culture, including idol groups, manga, anime, Tamiya, Gundam, and everything otaku-related!
 
 ---
 
@@ -65,7 +66,7 @@
 
 ## 🏆 Awards
 
-### Jakarta Scholarship Foundation | 2024 - 2025
+### [Jakarta Scholarship Foundation](https://beasiswajakarta.com/) | 2024 - 2025
 - Selected based on university recommendation with minimum GPA of 3.0
 - Recognized for academic excellence and consistent performance
 
@@ -110,6 +111,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -158,10 +160,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=StevanusAndika&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=StevanusAndika&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=StevanusAndika&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-
 
 ---
 
