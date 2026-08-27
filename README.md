@@ -8,7 +8,7 @@
 - 💬 Ask me about web development, IT support, or anything tech-related
 - 📫 How to reach me: **stevcomp58@gmail.com**
 - 🎯 Final-year Software Engineering student with experience as Fullstack Developer and IT Support. Skilled in web application development, software testing, and system management. Possesses strong problem-solving abilities, team collaboration, and rapid adaptation to new technologies.
-- 🇯🇵 I'm also passionate about Japanese culture, including idol groups, manga, anime, Tamiya, Gundam, and everything otaku-related!
+- I'm also passionate about Japanese culture, including idol groups, manga, anime, Tamiya, Gundam, and everything otaku-related!
 
 ---
 
@@ -97,7 +97,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%237777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -155,9 +155,13 @@
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StevanusAndika&show_icons=true&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StevanusAndika&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StevanusAndika&layout=compact&theme=default)
+![](https://github-readme-stats.shion.dev/api?username=StevanusAndika&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=StevanusAndika&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=StevanusAndika&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+
 
 ---
 
